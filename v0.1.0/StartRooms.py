@@ -75,4 +75,29 @@ def start3():
     text = "The rumbling of the carriage cart grinds to a halt and you are lifted from the floor of it by your arms."
     textbox(text)
     time.sleep(1)
-    text = ""
+    text = "With the sack over your head you find it impossible to see. All you can smell is musty cloth, all you can hear are the clanking of chains as other people in the carriage are moved."
+    textbox(text)
+    time.sleep(1)
+    text = "As your are lifted from the carriage, you feel the tight grips on your arms slacken suddenly and a wet dripping noise begins on each side."
+    textbox(text)
+    time.sleep(1)
+    text = "Without warning, the sack over your head is thrown upwards to reveal the night sky, full of stars, above. You glance around."
+    textbox(text)
+    time.sleep(0.5)
+    text = "."
+    textbox(text)
+    time.sleep(0.5)
+    text = "."
+    textbox(text)
+    time.sleep(0.5)
+    text = "."
+    textbox(text)
+    time.sleep(1)
+    text = "You notice you are in a gorge - the arms holding you moments ago severed at the elbows and the bodies nowhere to be found."
+    textbox(text)
+    time.sleep(1)
+    text = "Unlike the others there are no chains on your legs athough... you can't seem to see anyone at all."
+    textbox(text)
+    time.sleep(1)
+    text = "As wet crunching sounds begin above you, you shudder and notice a doorframe in the side of the gorge. Wasting no time, you rush towards it."
+    textbox(text)
